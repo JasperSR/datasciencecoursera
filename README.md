@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-coursework for data science toolbox
+repository for coursework for data science toolbox
